@@ -33,20 +33,11 @@
 
 ## 🧬 About Me
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
 I'm a **Java Full-Stack Software Engineer** with 2+ years of experience independently architecting and shipping production-grade systems — **5+ full-stack products, 300+ REST APIs, and 8+ microservices** — with deep specialization in **e-commerce platforms, Stripe payment infrastructure, and subscription-based systems**.
 
 I operate with a **product engineering mindset**: I don't just implement tickets, I own architecture decisions end-to-end — from authentication and data modeling to payment orchestration, event-driven microservices, and API design — while collaborating closely with product and design teams to ship features that hold up under real-world usage.
 
 I'm equally invested in **AI-augmented engineering** — using LLM tooling (Copilot, Cursor, Claude, ChatGPT) and direct **OpenAI API integration** to accelerate delivery without compromising code quality, and I actively mentor junior engineers on best practices, testing discipline, and clean architecture.
-
-```yaml
-engineer:
-  focus: [Full-Stack Development, Payment Systems, Microservices, AI-Assisted Engineering]
-  strengths: [System Design, API Architecture, Production Ownership, Mentorship]
-  mindset: "Ship end-to-end. Own the outcome. Optimize relentlessly."
-```
 
 **🎯 Open To:** Software Engineer / Full-Stack Engineer roles · Backend & Platform Engineering · AI-Integrated Product Engineering · Freelance & Contract Systems Architecture
 
@@ -120,35 +111,11 @@ engineer:
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kolluUmasree&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolluUmasree&theme=redical&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kolluUmasree/kolluUmasree/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kolluUmasree/kolluUmasree/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kolluUmasree/kolluUmasree/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
